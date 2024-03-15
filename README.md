@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm </h1>
+
 <img src="https://res.cloudinary.com/df8wlumcl/image/upload/v1710085199/Black_Simple_Business_Linkedin_Banner_2_olentq.png" alt="Banner Image">
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
