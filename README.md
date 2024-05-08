@@ -7,7 +7,7 @@
 ***
 
 
-- 🔭 I’m currently working on **X-Pert Factor**
+- 🔭 I’m currently working on **Xpert Factor**
 
 
 - 🌱 I’m currently learning **React Js, Next Js, .NET, SQL Server**
